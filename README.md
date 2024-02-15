@@ -6,12 +6,15 @@ Looking ahead, my goal is to become a Data Scientist, where I can apply my skill
 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
   
 - My Resume (https://drive.google.com/file/d/1PeBH9QvUFd4QBnZL8BFr-F9ZmO2NbBOY/view?usp=sharing)
   
 - 💼 any freelance work? do reach, [email](varsagupta07@gmail.com)
   
 - 💬 ask me about anything, i am happy to help;
+
+
 
  
 <h3 align="left">Connect with me:</h3>
