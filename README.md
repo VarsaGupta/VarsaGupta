@@ -19,8 +19,8 @@ Looking ahead, my goal is to become a Data Scientist, where I can apply my skill
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/guptavarsa20438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/guptavarsa20438" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/varsa-gupta-027104265/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varsa-gupta-027104265/" height="30" width="40" /></a>
-<a href="https://varsagupta.medium.com/" target="_blank"> <iframe src="https://drive.google.com/file/d/1OE-cL_jmR24BKK9H5dpG9u4bpSVKwE4x/preview" width="40" height="30"></iframe>
-
+<a href="https://varsagupta.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Medium/medium-logos/master/01_Logo/01_Black/SVG/Medium-Logo-Black-RGB.svg" alt="Medium.com" height="30" width="40" /></a>
+</p>
 
 </p>
 
