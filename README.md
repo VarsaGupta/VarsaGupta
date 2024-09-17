@@ -20,7 +20,7 @@ Looking ahead, my goal is to become a Data Scientist, where I can apply my skill
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/guptavarsa20438" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/guptavarsa20438" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/varsa-gupta-027104265/](https://www.linkedin.com/in/varsa-gupta-027104265/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varsa-gupta-027104265/" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/https://www.linkedin.com/in/varsa-gupta-027104265/](https://www.linkedin.com/in/varsa-gupta-027104265/)](https://www.linkedin.com/in/varsa-gupta-027104265/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varsa-gupta-027104265/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/varsaguao7c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/varsaguao7c" height="30" width="40" /></a>
 </p>
 
